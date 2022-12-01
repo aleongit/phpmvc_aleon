@@ -29,15 +29,5 @@ or XAMPP
 ## Get Started
 - git clone https://github.com/aleongit/phpmvc_aleon.git
 - cd phpmvc_aleon
+- run **init.sql**
 - http://localhost/phpmvc_aleon/ or apache site
-
-
-![Screenshot](screenshots/1.png)
-
-![Screenshot](screenshots/2.png)
-
-![Screenshot](screenshots/3.png)
-
-![Screenshot](screenshots/4.png)
-
-![Screenshot](screenshots/5.png)
